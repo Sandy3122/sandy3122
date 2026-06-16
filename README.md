@@ -126,38 +126,6 @@ Currently exploring **AI Agents, LLMs, and MCP-based automation systems** to bui
 
 ---
 
-## 🏆 Featured Projects
-
-### 🤖 AI Projects
-
-| Project | Description | Impact | Tech |
-|--------|-------------|--------|------|
-| [**AutoDisclaimer**](https://github.com/Sandy3122/AutoDisclaimer) | AI that auto-detects smoking scenes in movies and adds legal disclaimers | Eliminates hours of manual frame-by-frame editing for production companies | Python, Moondream2, OpenCV, Gradio, Docker |
-| [**AI Wedding Invitation**](https://github.com/Sandy3122/Ai-powered-wedding-invitation) | AI-generated personalized wedding invitation platform | Live on Vercel — real weddings served | TypeScript, Next.js, Vercel |
-| [**AI Wedding Backend**](https://github.com/Sandy3122/Ai-powered-wedding-invitation-backend) | Full API for AI wedding platform with Firebase, JWT auth, media management | Production-grade auth + file storage pipeline | Node.js, Firebase, JWT |
-| **Chatbot Suite** | Multiple conversational bots (Weather, QnA, EchoBot, Sick Leave) | Demonstrates NLP and API integration depth | JavaScript, Azure CLU, Node.js |
-
-### ⚡ Automation Projects
-
-| Project | Description | Impact | Tech |
-|--------|-------------|--------|------|
-| [**InstaEtch Service**](https://github.com/Sandy3122/instaetch-Service) | Secure Instagram scraper backend with intelligent caching | Production-ready with rate limiting, CORS, Cloudflare bypass | Node.js, Express, Helmet, JWT |
-| [**PDF Generator**](https://github.com/Sandy3122/generate-pdfs) | Automated bulk PDF generation from templates | Real-world profile PDF bulk exporter | Node.js, Puppeteer, Firebase, EJS |
-| [**API Testing Dashboard**](https://github.com/Sandy3122/matchingjodi-api-testing) | API testing dashboard with dark mode, multi-environment support | Developer tooling for production apps | TypeScript, React, Vite, Docker |
-
-### 🌐 Full Stack Projects
-
-| Project | Description | Impact | Tech |
-|--------|-------------|--------|------|
-| [**Matching Jodi Admin**](https://github.com/Sandy3122/matching-new-admin) | Complete admin dashboard for matrimony platform | Powers real user management for a matrimony business | TypeScript, React |
-| [**Rock Ridge Global Schools**](https://github.com/Sandy3122/rockridgeglobalschools) | Multi-campus school website (3 campuses) | 85+ production deployments — live school website | HTML, JavaScript, CSS, Vercel |
-| [**Trip Management App**](https://github.com/Sandy3122/trip-management) | Full-stack trip manager with Google Maps Places API | Multi-contributor, 4 branches, 34+ commits | React, Node.js, Google Maps API |
-| [**Wedding Backend**](https://github.com/Sandy3122/wedding-invitation-backend) | Enterprise API with media uploads, likes, wishes, Firebase storage | Production backend with HMAC auth tokens | Node.js, Firebase, Firestore |
-| [**Portfolio**](https://github.com/Sandy3122/sandeep-portfolio) | Personal developer portfolio with AWS S3 and Nodemailer | Live at seeramsandeep.vercel.app | JavaScript, CSS, HTML, AWS S3 |
-
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
