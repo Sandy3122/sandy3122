@@ -128,11 +128,6 @@ Currently exploring **AI Agents, LLMs, and MCP-based automation systems** to bui
 
 ## 🏆 Featured Projects
 
-<details open>
-<summary><b>🌟 Click to expand Featured Projects</b></summary>
-
-<br/>
-
 ### 🤖 AI Projects
 
 | Project | Description | Impact | Tech |
@@ -160,7 +155,6 @@ Currently exploring **AI Agents, LLMs, and MCP-based automation systems** to bui
 | [**Wedding Backend**](https://github.com/Sandy3122/wedding-invitation-backend) | Enterprise API with media uploads, likes, wishes, Firebase storage | Production backend with HMAC auth tokens | Node.js, Firebase, Firestore |
 | [**Portfolio**](https://github.com/Sandy3122/sandeep-portfolio) | Personal developer portfolio with AWS S3 and Nodemailer | Live at seeramsandeep.vercel.app | JavaScript, CSS, HTML, AWS S3 |
 
-</details>
 
 ---
 
