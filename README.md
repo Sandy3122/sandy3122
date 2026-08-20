@@ -178,7 +178,7 @@ Every repo teaches me something — 154 repositories and counting
 
 | Metric | Count |
 |--------|-------|
-| 📦 Total Repositories | 154+ |
+| 📦 Total Repositories | 166+ |
 | 🌍 Public Repositories | 60+ |
 | 🔒 Client Projects (Private) | 90+ |
 | 🍴 Notable OSS Forks | 8+ |
